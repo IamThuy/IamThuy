@@ -2,13 +2,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/IamThuy/IamThuy/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/IamThuy/IamThuy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.discordapp.net/attachments/1410832699093942306/1487983303846793216/OVk9.png?ex=6aa6a1b1&is=6aa55031&hm=cc74c26c8a16286d2e43dbdfc8c59c615baad350d48a858bfe991df20f825df7&=&format=webp&quality=lossless"  />
 </div>
