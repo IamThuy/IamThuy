@@ -2,6 +2,12 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.discordapp.net/attachments/1410832699093942306/1549536880939507892/13dce0bb-2036-4c4a-8800-7ddf6021a0f2.jpg?ex=6ab642ed&is=6ab4f16d&hm=92f79cf921eb59ac92c6057199797aab51a326611cbe5e42dbadf4a47dcd4143&=&format=webp"  />
+</div>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -28,17 +34,16 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=IamThuy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/IamThuy/IamThuy/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamThuy/IamThuy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamThuy/IamThuy/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IamThuy/IamThuy/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
