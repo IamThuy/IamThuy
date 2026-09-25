@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.discordapp.net/attachments/1410832699093942306/1549536880939507892/13dce0bb-2036-4c4a-8800-7ddf6021a0f2.jpg?ex=6ab642ed&is=6ab4f16d&hm=92f79cf921eb59ac92c6057199797aab51a326611cbe5e42dbadf4a47dcd4143&=&format=webp"  />
+  <img data-importer="image" height="200" src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FMztt5vtkyGoAAAAe%2Fnerd-cat-cat.png&tbnid=tkYDHe6vNOduEM&vet=1&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fnerd-cat-cat-nerd-glasses-gif-3691665158387845226&docid=tbmwyvXfrMFdbM&w=498&h=498&hl=pt-BR&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=e2ed33960725ea7b&shem=epsd1%2Cnisbtsa2%2Cnisbtsal%2Crimspwouoe" />
 </div>
 
 ###
